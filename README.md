@@ -19,4 +19,4 @@ Currently as of now. I maintain the "TermTimer" project and am working on anothe
 
 ## Connect with me
 
-If you have anything you wish to talk to me, please shoot me a DM in Discord! My discord username is quadkin
+If you have anything you wish to talk to me about, please shoot me a DM in Discord! My discord username is quadkin
