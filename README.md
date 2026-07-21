@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! My name is Kenraali! I am a small beginner C developer from Finland, mainly working on small projects. I'm a Contributor/translator to Archinstall. I like to make everything that i do Open-Source! Unfortunately i don't work on too many project's. So i have nothing much to give to the people!
+Hello there! My name is Kenraali! I am a  C developer from Finland, mainly working on small projects. I'm a Contributor/translator to Archinstall. I like to make everything that i do Open-Source! Unfortunately i don't work on too many project's. So i have nothing much to give to the people!
 Currently as of now. I maintain the "Planned-boot" and "Stainless-Installer" Projects. 
 
 ## My Skills
