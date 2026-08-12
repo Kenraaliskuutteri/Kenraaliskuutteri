@@ -4,7 +4,7 @@ I'm a developer from Finland with a passion for open-source software and low-lev
 
 ## Current Projects
 
-*  **ElectronPM** - A Universal Linux package anagee
+*  **ElectronPM** - A Universal Linux package manager
 *  **Planned-boot** - Boot management project
 *  **Stainless-Installer** - Installer project
 *  Learning **JavaScript**
