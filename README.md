@@ -2,10 +2,9 @@
 
 I'm a developer from Finland with a passion for open-source software and low-level programming. Most of my work is written in **C**, and I enjoy building small, practical projects while contributing to the open-source community.
 
-I'm also a **Contributor & Translator** for **Archinstall**, helping improve the installer for Arch Linux users.
-
 ## Current Projects
 
+*  **ElectronPM** - A Universal Linux package anagee
 *  **Planned-boot** - Boot management project
 *  **Stainless-Installer** - Installer project
 *  Learning **JavaScript**
