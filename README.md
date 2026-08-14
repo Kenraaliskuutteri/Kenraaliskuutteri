@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenraali
 
-I'm a developer from Finland with a passion for open-source software and low-level programming. Most of my work is written in **C**, and I enjoy building small, practical projects while contributing to the open-source community.
+I'm a developer from Finland with a passion for open-source software and low-level programming. Most of my work is written in **C** and **Python**, and I enjoy building small, practical projects while contributing to the open-source community.
 
 ## Current Projects
 
