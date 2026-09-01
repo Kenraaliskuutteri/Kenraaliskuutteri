@@ -5,9 +5,10 @@ I'm a developer from Finland with a passion for open-source software and low-lev
 ## Current Projects
 
 *  **ElectronPM** - A Universal Linux package manager
-*  **Planned-boot** - Boot management project
+*  **LongOS** - Independent x86-64 bit OS.
 *  **Stainless-Installer** - Installer project
-*  Learning **JavaScript**
+*  **TUI Farm** - A TUI based farm game
+*  **Daedalus** - A Custom C memory allocator
 
 ## Languages & Tools
 
