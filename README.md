@@ -5,7 +5,7 @@ I'm a developer from Finland with a passion for open-source software and low-lev
 ## Current Projects
 
 *  **ElectronPM** - A Universal Linux package manager
-*  **LongOS** - Independent x86-64 bit OS.
+*  **Lynceus** - A server deployable focused system resource manager with 2 versions, the app for overviewing resource usage and a daemon to send the date from the server to your app
 *  **Stainless-Installer** - Installer project
 *  **TUI Farm** - A TUI based farm game
 *  **Daedalus** - A Custom C memory allocator
